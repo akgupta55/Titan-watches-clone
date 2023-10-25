@@ -1,0 +1,27 @@
+.offers {
+  margin: 40px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.offers h1 {
+  text-transform: uppercase;
+  color: #171717;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.hr {
+  color: #f7f4f4;
+  width: 200px;
+  height: 6px;
+  border-radius: 10px;
+  background: #131212;
+}
+
+.offers_item {
+  margin-top: 50px;
+  display: flex;
+  gap: 30px;
+}
